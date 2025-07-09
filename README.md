@@ -1,6 +1,4 @@
-<div align="center">
-#Working
-</div>
+## Working...
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TheJnxx&theme=catppuccin_mocha">
