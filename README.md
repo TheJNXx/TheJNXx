@@ -1,3 +1,3 @@
 ## Working...
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=catppuccin-mocha)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheJNXx&theme=catppuccin-mocha)
