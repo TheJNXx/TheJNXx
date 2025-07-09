@@ -1,3 +1,3 @@
 ## Working...
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheJNXx&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheJNXx&show_icons=true&theme=catppuccin_mocha)
