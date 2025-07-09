@@ -1,3 +1,3 @@
 ## Working...
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheJNXx&show_icons=true&theme=catppuccin_mocha)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=catppuccin-mocha)
