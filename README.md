@@ -5,11 +5,11 @@
 <p align="center">19 • ES & ENG (Learning) (ᵕ—ᴗ—)</p>
 <p align="center">Wanting To Learn To Program (•́ ᴖ •̀)</p>
 
-<p align="center">
-  <a href="https://archlinux.org">
-    <img src="https://skillicons.dev/icons?i=arch" />
-  </a>
-</p>
+<div align="center">
+  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
+
+</div>
 
 ## Stats
 
