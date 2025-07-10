@@ -5,7 +5,7 @@
 <p align="center">19 • ES & ENG (Learning) (ᵕ—ᴗ—)</p>
 <p align="center">Wanting To Learn To Program (•́ ᴖ •̀)</p>
 
-[![My Skills](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch)](https://archlinux.org)
 
 ## Stats
 
