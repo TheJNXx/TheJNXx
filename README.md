@@ -3,7 +3,7 @@
 <p align="center">Fan Of FOSS Software (🌺◠ᴗ◠)</p>
 <p align="center">Beta Tester By Hobby >ᴗ<</p> 
 <p align="center">19 • ES & ENG (Learning) (ᵕ—ᴗ—)</p>
-<p align="center">Wanting To Learn To Program (｡•́︿•̀｡)</p>
+<p align="center">Wanting To Learn To Program (•́ ᴖ •̀)</p>
 
 
 ## Stats
