@@ -6,7 +6,7 @@
 <p align="center">Wanting To Learn To Program (•́ ᴖ •̀)</p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://archlinux.org">
     <img src="https://skillicons.dev/icons?i=arch" />
   </a>
 </p>
