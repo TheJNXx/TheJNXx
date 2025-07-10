@@ -6,4 +6,4 @@
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheJnxx&theme=catppuccin_mocha">
 </picture>
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/KTJainer22)
+![trophy](https://github-profile-trophy.vercel.app/?username=TheJnxx&theme=catppuccin-mocha)
