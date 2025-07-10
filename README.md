@@ -6,4 +6,4 @@
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheJnxx&theme=catppuccin_mocha">
 </picture>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=TheJnxx&theme=catppuccin-mocha)
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&theme=catppuccin-mocha&line1=tool1,tool2,tool3)
