@@ -1,6 +1,6 @@
 ## About Me
 
-
+(🌺◠ᴗ◠) Only A Person Fan Of FOSS Software || Beta Tester By Hobby ^^ || ES & ENG (Learning)
 
 ## Stats
 
