@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@:thejnxx" />
+  <img src="https://count.getloli.com/@:thejnxx?theme=rule34" />
 </p>
