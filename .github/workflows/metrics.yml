@@ -1,0 +1,29 @@
+name: Metrics
+on:
+  # Se ejecuta todos los días a las 00:00 UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Permite ejecutar manualmente desde GitHub
+  workflow_dispatch:
+  # Se ejecuta cuando haces push a main
+  push:
+    branches: [main]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Nombre del archivo que se generará
+          filename: metrics.plugin.stars.svg
+          # Token de acceso (debe estar en los secrets)
+          token: ${{ secrets.METRICS_TOKEN }}
+          # No incluir métricas base (solo las estrellas)
+          base: ""
+          # Habilitar el plugin de estrellas
+          plugin_stars: yes
+          # Número de repositorios con estrella a mostrar
+          plugin_stars_limit: 6
