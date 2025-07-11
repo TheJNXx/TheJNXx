@@ -36,5 +36,7 @@
 </p>
 
 <div align="center">
-  <img src="metrics.plugin.stars.svg" alt="Starred Repositories" />
+  <a href="https://github.com/thejnxx?tab=stars">
+    <img src="metrics.plugin.stars.svg" alt="Starred Repositories" />
+  </a>
 </div>
