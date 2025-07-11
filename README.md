@@ -1,4 +1,8 @@
+<div align="center">
+
 ## About Me
+
+</div>
 
 <p align="center">Fan Of FOSS Software (🌺◠ᴗ◠)</p>
 <p align="center">Beta Tester By Hobby >ᴗ<</p> 
@@ -13,7 +17,11 @@
 
 </div>
 
+<div align="center">
+
 ## Stats
+
+</div>
 
 <p align="center">
   <img src="https://count.getloli.com/@:thejnxx?theme=rule34" />
