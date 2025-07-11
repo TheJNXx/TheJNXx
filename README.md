@@ -35,3 +35,6 @@
 </picture>
 </p>
 
+<div align="center">
+  <img src="metrics.plugin.stars.svg" alt="Starred Repositories" />
+</div>
