@@ -13,7 +13,7 @@
   
 [![Android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg)](https://www.fossify.org)
 <br/>
-[![Arch](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg)](https://archlinux.org) [![Reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit3.svg)](https://www.reddit.com/user/Jennifer2005x)
+[![Arch](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg)](https://archlinux.org) [![Reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit3.svg)](https://www.reddit.com/user/TheJnx_x)
 
 </div>
 
