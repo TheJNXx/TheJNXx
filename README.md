@@ -12,7 +12,6 @@
 <div align="center">
   
 [![Android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg)](https://www.fossify.org)
-<br/>
 [![Arch](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg)](https://archlinux.org)
 
 </div>
